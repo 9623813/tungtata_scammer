@@ -3,6 +3,8 @@
 
 Source: https://bitcointalk.org/index.php?topic=5586649.0
 
+Scammer DangThanhTung github profile: https://github.com/tungtata
+
 Scammer name: Đặng Thanh Tùng (also shown as Tungtata / Đặng Thanh Tùng) Based in Hanoi Capital of Vietnam
 
 https://talkimg.com/images/2026/06/24/U1KWz5.jpg
