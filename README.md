@@ -1,12 +1,13 @@
 # tungtata_scammer
 Đặng Thanh Tùng (Tungtata), Hanoi-based developer of SamFW/MiFirm, is linked to an incident on June 23, 2026: after installing SamFW Tool, a victim lost 10,000 XMR (~$3M) and had data wiped. The original v5.4 was later replaced with v5.5.1, reportedly to reduce evidence.
 
+Source: https://bitcointalk.org/index.php?topic=5586649.0
 
-Scammer name: [b]Đặng Thanh Tùng (also shown as Tungtata / Đặng Thanh Tùng)[/b] Based in Hanoi Capital of Vietnam
+Scammer name: Đặng Thanh Tùng (also shown as Tungtata / Đặng Thanh Tùng) Based in Hanoi Capital of Vietnam
 
-[img height=640]https://talkimg.com/images/2026/06/24/U1KWz5.jpg[/img]
+https://talkimg.com/images/2026/06/24/U1KWz5.jpg
 
-[img height=240]https://talkimg.com/images/2026/06/24/U1KBmC.png[/img]
+https://talkimg.com/images/2026/06/24/U1KBmC.png
 
 Role stated: founder / main developer of “SamFW” and MiFirm.net (from About page at Samfw.com)
 Education stated: Quang Ninh Industrial College (from About page at Samfw.com)
@@ -22,7 +23,7 @@ Additional public connections: listings linking the service to Quynh Chi Investm
 
 A family member installed “SamFW Tool” from samfw.com on Jun 23, 2026. Shortly after installation, 10,000 XMR (about $3 million) were withdrawn from the Feather Wallet, and everything in victim’s computer data was deleted.
 
-[img height=900]https://talkimg.com/images/2026/06/24/U1KIsD.png[/img]
+https://talkimg.com/images/2026/06/24/U1KIsD.png
 
 After installing samfwtoolsetup_v5.4.zip, the suspected operators stole the funds from the Feather Wallet. After the theft, they removed and modified the original tool package to reduce evidence. The download is now replaced with a revised version labeled SamFwToolSetup_v5.5.1.zip.
 
@@ -30,14 +31,14 @@ After the scam, the photo of the incident was taken on a phone. Later, the scamm
 
 Source: https://samfw.com/blog/samfw-frp-tool-1-0-remove-samsung-frp-one-click
 
-[b]We want to report a serious suspected theft and cybercrime to Vietnamese police (cyber unit). We believe the tool contains sophisticated malicious functionality, potentially including hidden remote access or wallet monitoring. We’re seeking help from the community to gather and document evidence, including additional information about the responsible parties. If you are in Vietnam and can assist, you will be rewarded for your help. Please share any relevant findings here. For urgent information, you can contact us via email: 96238132834@proton.me[/b]
+We want to report a serious suspected theft and cybercrime to Vietnamese police (cyber unit). We believe the tool contains sophisticated malicious functionality, potentially including hidden remote access or wallet monitoring. We’re seeking help from the community to gather and document evidence, including additional information about the responsible parties. If you are in Vietnam and can assist, you will be rewarded for your help. Please share any relevant findings here. For urgent information, you can contact us via email: 96238132834@proton.me
 
-[b]We already reported this case to several Vietnamese crypto exchanges, but we still need further assistance. Any additional help would be greatly appreciated and will be rewarded.[/b]
+We already reported this case to several Vietnamese crypto exchanges, but we still need further assistance. Any additional help would be greatly appreciated and will be rewarded.
 
 After the scam, we contacted the Đặng Thanh Tùng, who responded that if we believed it was a scam, we should report it to the police and send laughing face emoji. Shortly afterward, he blocked us on Telegram.
 
 
-Evidence links have collected: 
+Evidence links have collected:
 https://t.me/samfwcom
 https://www.buymeacoffee.com/tungtata
 https://about.me/tungtata
@@ -61,5 +62,5 @@ Birth Year: 1992
 We need assistance making contact with Vietnam police officers and the cybercrime unit. Any help or introductions will be appreciated and will be rewarded.
 
 
-Keywords: 
+Keywords:
 Tungtata scam, Tungtata fraud, Dang Thanh Tung scam, samfw scam, samfw malware, samfw trojan, samfw security risk, samfw suspicious software, Tungtata trojan virus, samfw warning, Đặng Thanh Tùng scammer, owner Đặng Thanh Tùng fraud, tungtata scam, DangThanhTung scammer, DangThanhTung fraud, DangThanhTung rat trojan
